@@ -13,3 +13,6 @@ python manage.py runserver
 # You have message after run server "You have 17 unapplied migration(s). "
 to fix that message
 python manage.py  migrate
+
+# 2. Creating Our Restaurant Project
+python manage.py createsuperuser
